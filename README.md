@@ -9,3 +9,4 @@
 | Lots of code to write to handle asynchronous requests and handlig error was also manual.    | createAsyncThunk to make asynchronous requests.    |
 | Class based implementation    | Functional Implementation with typescript and supports of hooks.    |
 
+Source: https://www.youtube.com/watch?v=A_vRvDAZuOo
